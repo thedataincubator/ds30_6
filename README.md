@@ -2,6 +2,8 @@
 
 ![The Data Incubator and Quantopian](/images/tdi-quantopian.png)
 
+To view the talk that goes along with this repo, click [here](https://www.youtube.com/watch?v=582s-AG3jbM).
+
 ## About the Speakers
 ![Jessica Stauth](/images/jessicastauth.jpg) <br/>
 [Dr. Jessica Stauth](https://www.linkedin.com/in/jessicastauth) is the VP of Quant Strategy at [Quantopian](https://twitter.com/quantopian), a fintech startup based in Boston. Jess has a PhD in Biophysics from UC Berkeley. She began her career in quantitative finance in 2008 as a research analyst at the StarMine Corporation in San Francisco. Following an acquisition by Thomson Reuters, Jess moved into the role of Director of Quant Strategy. At Quantopian, Jess runs a research team of analysts and data scientists tasked with identifying promising trading strategies built by Quantopian's online community of 90,000+ members from 180+ countries around the world.
